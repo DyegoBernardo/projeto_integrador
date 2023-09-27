@@ -1,2 +1,2 @@
 feature.txt criada para teste
-realizar secundo tetste
+realizar segundo teste
